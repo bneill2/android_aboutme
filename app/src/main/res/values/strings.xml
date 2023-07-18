@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Bryan Neill</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Bryan
+    \n\nThis is an app I am working on for a course called
+        \nDeveloping Android Apps in Kotlin
+        \nIt is available on Udacity
+        \n\nI have had no experience developing Android Apps before this.
+        \nHowever, this course has been a great learning experience.
+        \nI am looking forward to learning how to develop more complex apps in the future.\n\n
+        \n\nThis is an app I am working on for a course called
+        \nDeveloping Android Apps in Kotlin
+        \nIt is available on Udacity
+        \n\nI have had no experience developing Android Apps before this.
+        \nHowever, this course has been a great learning experience.
+        \nI am looking forward to learning how to develop more complex apps in the future.\n\n
+        \n\nThis is an app I am working on for a course called
+        \nDeveloping Android Apps in Kotlin
+        \nIt is available on Udacity
+        \n\nI have had no experience developing Android Apps before this.
+        \nHowever, this course has been a great learning experience.
+        \nI am looking forward to learning how to develop more complex apps in the future.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
